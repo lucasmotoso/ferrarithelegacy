@@ -320,6 +320,7 @@
   }
 } .u-section-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/7f29ba4755d973ca29cd643d4a9e3ffbaf6265281d482ec1e37183e3cd9bdc7b702cb2f72f5044c5b91487f98d8d10e41a7f4af8a288c18ba406a7_1280.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -367,7 +368,7 @@
 }
 
 .u-section-3 .u-gallery-inner-1 {
-  background-image: url("https://di-uploads-development.dealerinspire.com/ferrarioftampabay/uploads/2021/03/Hero.jpg");
+  background-image: url("images/Hero3.jpg");
   background-position: 50% 50%;
 }
 
@@ -502,10 +503,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-3 {
-    background-position: 50% 50%;
-  }
-
   .u-section-3 .u-sheet-1 {
     min-height: 1524px;
   }
